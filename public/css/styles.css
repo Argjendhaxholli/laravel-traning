@@ -1,0 +1,45 @@
+.navbar {
+    background-color: #f6f6f6;
+}
+    .navbar-toggler{
+        display: none;
+    }
+
+    .navbar-nav {
+        display: inline-block;
+    }
+
+    .dropdown {
+        float: right;
+    }
+
+    .navbar-collapse {
+        display: block;
+    }
+
+    .navbar-nav li {
+        display: inline-block;
+    }
+     .navbar-nav li a{
+        padding: 0px 25px !important;
+    }
+
+    .dropdown-toggle {
+        border: none;
+    }
+
+    .btn-margin-top-space {
+      margin-top: 10px;
+    }
+
+    .update-form form{
+      width: 100%;
+    }
+
+    .right {
+      float: right;
+    }
+
+    .left {
+      float: left;
+    }
