@@ -43,3 +43,18 @@
     .left {
       float: left;
     }
+
+    .pagination{
+      width: auto;
+      margin: 0 auto;
+    }
+
+    .pagination li{
+      padding: 5px 15px;
+      border: 1px solid #e8e8e8;
+    }
+
+    .pagination .active {
+      background-color: #007bff;
+      color: #fff;
+    }
